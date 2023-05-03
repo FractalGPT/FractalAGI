@@ -39,7 +39,7 @@
 
 <img src="https://github.com/FractalGPT/FractalAGI/blob/main/img/Demo/image_1.png?raw=true" width=400 />
 
-- Пример фрактального синтеза из памяти(докмента)
+- Пример фрактального синтеза из памяти(документа)
 
 <img src="https://github.com/FractalGPT/FractalAGI/blob/main/img/Demo/image_2.png?raw=true" width=400 />
 
